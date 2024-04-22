@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào cậu, tớ có điều muốn nói. </br> Làm người yêu tớ nhé!",
+  titleHeader: "Em à, anh có điều muốn nói.",
   descriptionHeader:
-    "Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã ĐỒNG Ý.",
-  buttonYes: "Tớ đồng ý",
-  buttonNo: "Không đồng ý",
-  titleModar: "Cảm ơn cậu.",
+    "Hôm nay là ngày đặc biệt gì em nhớ không.Là ngày tròn 1 tháng chúng mình quen nhau đấy em hehee. (23/03)",
+  buttonYes: "Yêu anh Lương <3",
+  buttonNo: "Không yêu đương gì cả",
+  titleModar: "Cảm ơn Em.",
   descriptionModar:
-    "Cảm ơn cậu đã cho tớ một cơ hội để tớ có thể ở bên cạnh, che chở và bảo vệ cậu. </br> Tớ biết tớ không được đẹp trai, cũng chẳng lắm tài nhưng tớ có một trái tim chân thành. Cậu chính là cả thế giới của tớ. </br> Tối nay tớ sẽ đến đón cậu. Cậu mặc thật đẹp vào nhé! Sẽ có một bất ngờ dành cho cậu.</br> Love you <3",
+    "Cảm ơn em đã cho anh cơ hội để có thể ở bên cạnh, che chở và yêu thương em. </br> Anh biết mình không được lãng mạn, cũng chẳng khéo ăn nói nhiều lúc làm em buồn nhưng anh luôn cố gắng để tốt hơn mỗi ngày, yêu thương em bằng hết những gì anh có thể. </br> Hôm nay là một ngày đặc biệt, anh chỉ muốn nói là anh yêu em nhiều ! mình cùng nhau cố gắng em nhé hehe.</br> Love Nga <3",
 };
